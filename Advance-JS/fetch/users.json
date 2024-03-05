@@ -1,0 +1,18 @@
+[
+  {
+    "username": "fahid",
+    "firstName": "shah",
+    "lastName": "fahid",
+    "gender": "Male",
+    "profileURl": "logo1.png",
+    "email": "shahfahid@google.com"
+  },
+  {
+    "username": "honaza",
+    "firstName": "honaza",
+    "lastName": "fahid",
+    "gender": "female",
+    "profileURl": "logo2.jpeg",
+    "email": "honazafahid@google.com"
+  }
+]

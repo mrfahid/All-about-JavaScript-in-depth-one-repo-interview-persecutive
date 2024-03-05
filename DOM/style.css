@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #414141;
+  color: #fff;
+}
+.contanier {
+  margin: 50px 50px;
+  background-color: white;
+  height: 250px;
+  padding: 30px;
+  width: 600px;
+}
+
+.heading {
+  margin-bottom: 15px;
+  pointer-events: none;
+}
+
+.contanier .para {
+  margin-bottom: 10px;
+  pointer-events: none;
+}
+
+p {
+  pointer-events: none;
+}
+a {
+  text-decoration: none;
+}

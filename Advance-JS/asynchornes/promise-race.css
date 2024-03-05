@@ -1,0 +1,7 @@
+#loader{
+  height: 100px;
+  width: 100px;
+  border: 2px solid mediumvioletred;
+  background-color: transparent;
+  border-radius: 50px;
+}
